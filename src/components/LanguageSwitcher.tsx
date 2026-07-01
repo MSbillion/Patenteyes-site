@@ -23,8 +23,12 @@ const FlagAR = () => (
 );
 const FlagUR = () => (
   <span className="inline-flex w-[22px] h-4 rounded-sm overflow-hidden shadow-sm shrink-0 bg-[#01411C]">
-    <span className="w-[6px] h-full bg-white" />
-    <span className="flex-1 flex items-center justify-center text-white text-[8px]">☪</span>
+    <span className="w-[5px] h-full bg-white shrink-0" />
+    <span className="relative flex-1">
+      <span className="absolute rounded-full bg-white" style={{ width: '8px', height: '8px', top: '50%', left: '42%', transform: 'translate(-50%, -50%)' }} />
+      <span className="absolute rounded-full bg-[#01411C]" style={{ width: '6.5px', height: '6.5px', top: '50%', left: '54%', transform: 'translate(-50%, -50%)' }} />
+      <span className="absolute text-white leading-none" style={{ fontSize: '6px', top: '50%', left: '74%', transform: 'translate(-50%, -50%)' }}>★</span>
+    </span>
   </span>
 );
 const FlagHI = () => (
