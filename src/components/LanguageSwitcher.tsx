@@ -119,7 +119,7 @@ export function LanguageSwitcher() {
         className="flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-bold bg-slate-100 hover:bg-white hover:border-slate-200 border border-transparent transition-all"
       >
         <CurrentFlag />
-        <span>{current.name}</span>
+        <span className="hidden sm:inline">{current.name}</span>
         <ChevronDown className="w-3 h-3 opacity-60" />
       </button>
       {open && (
