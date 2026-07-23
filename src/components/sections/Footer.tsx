@@ -46,10 +46,9 @@ export function Footer() {
           <div>
             <h4 className="text-[11px] font-extrabold uppercase tracking-wider opacity-55 mb-3">{t('footer.col_legal')}</h4>
             <ul className="flex flex-col gap-2 text-[13px] opacity-85">
-              <li className={linkClass}>{t('footer.legal_privacy')}</li>
-              <li className={linkClass}>{t('footer.legal_terms')}</li>
-              <li className={linkClass}>{t('footer.legal_cookies')}</li>
-              <li className={linkClass}>{t('footer.legal_refunds')}</li>
+              <li><a href="/privacy/" className={linkClass}>{t('footer.legal_privacy')}</a></li>
+              <li><a href="/termini/" className={linkClass}>{t('footer.legal_terms')}</a></li>
+              <li><a href="/cookie/" className={linkClass}>{t('footer.legal_cookies')}</a></li>
             </ul>
           </div>
         </div>

@@ -194,7 +194,7 @@
   },
   "cookies": {
     "title": "本网站使用 Cookie",
-    "text": "我们使用网站正常运行所必需的技术 Cookie,并在您同意的情况下使用分析和营销 Cookie。请阅读我们的 <a href=\"#cookies\">Cookie 政策</a> 和 <a href=\"#privacy\">隐私政策</a>。",
+    "text": "我们使用网站正常运行所必需的技术 Cookie,并在您同意的情况下使用分析和营销 Cookie。请阅读我们的 <a href=\"/cookie/\">Cookie 政策</a> 和 <a href=\"/cookie/\">隐私政策</a>。",
     "btn_necessary": "仅必要",
     "btn_accept": "全部接受"
   },

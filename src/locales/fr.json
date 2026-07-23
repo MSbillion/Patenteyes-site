@@ -12,10 +12,10 @@
     "motto": "PatenteYes. Toujours pour tous.",
     "title_part1": "Voici votre",
     "title_part2": "prochain permis de conduire.",
-    "subtitle": "Étudiez pour le permis B italien dans votre langue, avec votre instructeur IA personnel disponible 24 heures sur 24.",
+    "subtitle": "Étudiez pour le permis B italien dans votre langue, avec votre coach IA personnel disponible 24 heures sur 24.",
     "bullet_1": "Simulations illimitées",
     "bullet_2": "7 000+ questions officielles",
-    "bullet_3": "Instructeur IA personnel 24/7",
+    "bullet_3": "Coach IA personnel 24/7",
     "bullet_4": "8 langues disponibles",
     "cta_primary": "Commencer gratuitement",
     "cta_secondary": "Comment ça marche",
@@ -34,7 +34,7 @@
     "big_label": "questions officielles du programme ministériel",
     "big_description": "Quiz, chapitres et simulations d'examen illimités, toujours à jour.",
     "mini1_num": "24/7",
-    "mini1_label": "instructeur IA toujours actif",
+    "mini1_label": "coach IA toujours actif",
     "mini2_num": "8",
     "mini2_label": "langues disponibles",
     "mini3_num": "9,99 €",
@@ -52,12 +52,12 @@
     "card3_text": "Sans une méthode personnalisée, tout retenir est presque impossible."
   },
   "giulia": {
-    "tag": "Votre instructeur IA",
+    "tag": "Votre coach IA",
     "title": "Rencontrez Giulia.",
     "subtitle": "Votre instructrice IA personnelle, toujours disponible.",
     "headline_part1": "Une question ?",
     "headline_part2": "Giulia répond 24/7.",
-    "description": "Marco, Ahmed, Karim, Aisha... donnez le nom que vous voulez à votre instructeur IA. Elle répond en 8 langues, 24 heures sur 24, avec des explications claires et des citations du Code de la route italien.",
+    "description": "Marco, Ahmed, Karim, Aisha... donnez le nom que vous voulez à votre coach IA. Elle répond en 8 langues, 24 heures sur 24, avec des explications claires et des citations du Code de la route italien.",
     "feat1_title": "8 langues différentes :",
     "feat1_text": "Italien, arabe, ourdou, hindi, chinois, espagnol, français, anglais.",
     "feat2_title": "Personnalisez le nom :",
@@ -94,7 +94,7 @@
   "features": {
     "tag": "Fonctionnalités",
     "title": "Tout ce dont vous avez besoin. Dans une seule app.",
-    "subtitle": "2 en 1 : étude de la théorie + instructeur IA personnel.",
+    "subtitle": "2 en 1 : étude de la théorie + coach IA personnel.",
     "f1_title": "8 langues",
     "f1_text": "Étudiez en italien, arabe, ourdou, hindi, chinois, espagnol, français ou anglais.",
     "f2_title": "Instructrice IA Giulia",
@@ -118,7 +118,7 @@
     "s1_title": "Choisissez votre langue",
     "s1_text": "Italien, arabe, ourdou, hindi, chinois, espagnol, français ou anglais",
     "s2_title": "Personnalisez l'IA",
-    "s2_text": "Donnez un nom à votre instructeur IA : votre compagnon d'étude",
+    "s2_text": "Donnez un nom à votre coach IA : votre compagnon d'étude",
     "s3_title": "Étudiez à votre rythme",
     "s3_text": "Chapitres, quiz et simulations. 10 minutes par jour suffisent",
     "s4_title": "Réussissez l'examen",
@@ -166,7 +166,7 @@
     "store_google": "Google Play"
   },
   "footer": {
-    "bio": "2 en 1 : étude de la théorie + instructeur IA personnel, en 8 langues.",
+    "bio": "2 en 1 : étude de la théorie + coach IA personnel, en 8 langues.",
     "motto": "Toujours pour tous.",
     "col_app": "App",
     "app_quiz": "Quiz permis",
@@ -194,7 +194,7 @@
   },
   "cookies": {
     "title": "Ce site utilise des cookies",
-    "text": "Nous utilisons des cookies techniques nécessaires au fonctionnement du site et, avec votre consentement, des cookies analytiques et marketing. Lisez notre <a href=\"#cookies\">Politique des cookies</a> et notre <a href=\"#privacy\">Politique de confidentialité</a>.",
+    "text": "Nous utilisons des cookies techniques nécessaires au fonctionnement du site et, avec votre consentement, des cookies analytiques et marketing. Lisez notre <a href=\"/cookie/\">Politique des cookies</a> et notre <a href=\"/cookie/\">Politique de confidentialité</a>.",
     "btn_necessary": "Uniquement nécessaires",
     "btn_accept": "Accepter tout"
   },
